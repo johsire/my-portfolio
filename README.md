@@ -1,7 +1,7 @@
 # Portfolio
 https://johsire.github.io/portfolio/
 
-Driven by curiosity and a deep desire to create, I am self motivated Full-Stack Software Engineer with experience in building, testing and deploying scalable, software products. Applications with 1500+ documented hours in full-stack Software Development at DevMountain.
+Driven by curiosity and a deep desire to create, I am self motivated Software Engineer with experience in building, testing and deploying scalable, software products. Applications with 1500+ documented hours in full-stack Software Development at DevMountain.
 
 I posses strong written and verbal communication skills and enjoy collaborating with other team members to create great software products that improve people's lives. I am interested in a challenging technical track career in software development environment.
 
